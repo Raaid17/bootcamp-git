@@ -1,6 +1,5 @@
-# Bootcamp DevOps — Repositori Latihan
+# Projek Bootcamp Git 2026 — Repositori Latihan
 
-hello from here
 
 
 # tambah di hujung fail:
